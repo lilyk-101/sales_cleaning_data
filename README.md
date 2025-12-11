@@ -7,7 +7,7 @@ The goal is to transform raw data into a clean, structured, and analysis-ready d
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This notebook includes:
 - Loading raw data
@@ -19,14 +19,6 @@ This notebook includes:
 - Creating new calculated fields
 - Exporting cleaned data for analysis
 
----
-
-## Repository Structure
-
-sale_cleaning_data/ ├── data_cleaning.ipynb ├── data/ ├── .gitignore └── README.md
-
-
-
 ## Technologies Used
 
 - Python 3
@@ -34,7 +26,6 @@ sale_cleaning_data/ ├── data_cleaning.ipynb ├── data/ ├── .git
 - pandas
 - numpy
 - matplotlib
-
 
 ## Key Cleaning Techniques
 
@@ -52,7 +43,6 @@ The notebook demonstrates techniques such as:
 - Parsing dates correctly  
 - Standardizing categorical values  
 - Saving cleaned dataset as CSV
-
 
 ## How to Run the Notebook
 
