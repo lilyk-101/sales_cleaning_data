@@ -23,12 +23,8 @@ This notebook includes:
 
 ## Repository Structure
 
-sale_cleaning_data/
-│
-├── data_cleaning.ipynb
-├── data/ 
-├── .gitignore
-└── README.md 
+sale_cleaning_data/ ├── data_cleaning.ipynb ├── data/ ├── .gitignore └── README.md
+
 
 
 ## Technologies Used
